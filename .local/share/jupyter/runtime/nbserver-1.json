@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/jwdevitt-t7-zdxux553/",
+  "base_url": "/binder/jupyter/user/jwdevitt-t7-v8d9b0zo/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "jX_XTkR3SWexQkXo4yvMPQ",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/jwdevitt-t7-zdxux553/"
+  "token": "0f9YpDvSSg6X3wnID7MOug",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/jwdevitt-t7-v8d9b0zo/"
 }
